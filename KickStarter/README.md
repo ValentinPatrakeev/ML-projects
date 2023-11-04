@@ -1,7 +1,7 @@
-# Equipments-Failures
+# Kickstarter
 
 ### <ins>Задача</ins> - предсказание успешности сбора денежных средств на краудфандинговой платформе
-<img src="https://media.giphy.com/media/aUQScPkg6B0rZGuRLX/giphy.gif" width="30%" >
+<img src="https://media.giphy.com/media/aUQScPkg6B0rZGuRLX/giphy.gif" width="25%" >
 
 ### <ins>Цель</ins>- Анализ данных, обработка, чистка, обучение моделей, поиск наилучшей модели
 
