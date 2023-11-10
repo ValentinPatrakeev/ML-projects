@@ -1,14 +1,17 @@
-# Kickstarter
+# Kickstarter 
 
-### <ins>Задача</ins> - предсказание успешности сбора денежных средств на краудфандинговой платформе
-<img src="https://media.giphy.com/media/aUQScPkg6B0rZGuRLX/giphy.gif" width="25%" >
+**It is necessary to predict the success of fundraising on a crowdfunding platform**
+> &ensp; **Initial data:**
+<br/>&ensp; Data on implemented and not implemented projects on the platform <br/>
+> &ensp; **Goal:**
+<br/>&ensp;  **Data analysis, processing, cleaning, model training, search for the best model**
 
-### <ins>Цель</ins>- Анализ данных, обработка, чистка, обучение моделей, поиск наилучшей модели
+**Uploaded to the repository and Results :**
+* [KickStarter](https://github.com/ValentinPatrakeev/ML-projects/blob/main/KickStarter/KS.ipynb****)
+* Several modals were trained, the best ones were selected, and hyperparameters were selected. : ROC_AUC - 0.709** **CatBoostClassifier**
 
-### Результаты: 
-* **Обучены несколько модалей, выбрана лучшая, подобраны гиперпараметры : ROC_AUC - 0.709** **CatBoostClassifier**
 
-### Основные используемые библиотеки 
+### Main libraries used
 
 ![PANDAS](https://img.shields.io/badge/PANDAS-1.3.5-090909??style=flat-square&logo=PANDAS)
 ![NUMPY](https://img.shields.io/badge/NUMPY-1.21.5-090909??style=flat-square&logo=NUMPY)
